@@ -1,0 +1,21 @@
+{
+  "title": "My best solution",
+  "description": "This is a very nice solution, to a pleitora of challenging problems.",
+  "authors": [
+    {
+      "name": "Max Mustermann",
+      "HIP_person_ID": "100"
+    },
+    {
+      "name": "Muster Maxmann",
+      "HIP_person_ID": "101"
+     }
+   ],
+   "publication_doi": "10.1107/S1600577518008858",
+   "dataset_doi": "10.5281/zenodo.3599683",
+   "HIP_project_ID": null
+}
+
+
+     
+      
